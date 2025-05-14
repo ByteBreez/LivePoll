@@ -19,8 +19,8 @@ LivePoll is an interactive web application designed to simplify the process of c
 
 ## Links
 
-- [Live Website](https://live-poll-wine.vercel.app/) - Loading time may take few seconds initially (free tier).
-- [Backend Routes Doc](https://livepoll-anjx.onrender.com/docs/)
+- Live website link: [Link](https://live-poll-ixjp.vercel.app)
+- [Backend Routes Doc](https://livepoll-w28i.onrender.com)
 
 ## Preview Images
 
