@@ -20,7 +20,8 @@ LivePoll is an interactive web application designed to simplify the process of c
 ## Links
 
 - Live website link: [Link](https://live-poll-ixjp.vercel.app)
-- [Backend Routes Doc](https://livepoll-w28i.onrender.com)
+- Fronend is deployed on vercel
+- Backend deployed on render with link: [Backend Routes Doc](https://livepoll-w28i.onrender.com)
 
 ## Preview Images
 
